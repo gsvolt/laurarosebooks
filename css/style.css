@@ -940,7 +940,7 @@
 	{
 		position: relative;
 		background: #ff8900;
-        background-image: url('images/header-wrapper-ie9.sv');
+        background-image: url('images/header-wrapper-ie9.svg');
         /*background-image: url('images/header-wrapper-ie9.sv'), -moz-linear-gradient(75deg, #ff8900 15%, #F2B69D 55%);
 		background-image: url('images/header-wrapper-ie9.sv'), -webkit-linear-gradient(75deg, #ff8900 15%, #F2B69D 55%);
 		background-image: url('images/header-wrapper-ie9.sv'), -o-linear-gradient(75deg, #ff8900 15%, #F2B69D 55%);
