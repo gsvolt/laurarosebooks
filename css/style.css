@@ -20,7 +20,8 @@
 	body,input,textarea,select
 	{
 		/*font-family: 'Source Sans Pro', sans-serif;*/
-        font-family: 'Great Vibes', cursive;
+        /*font-family: 'Great Vibes', cursive;*/
+		font-family: Arial;
 		font-weight: 300;
         
 		color: #52575c;
